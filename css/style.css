@@ -1,0 +1,82 @@
+body {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+  background: transparent;
+}
+div#navbarNav {
+  justify-content: flex-end;
+}
+.bg-image {
+  background-image: url(/images/Banner-Background.png);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+a.nav-link {
+  color: white !important;
+  font-size: 18px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+.hero {
+  height: 90%;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+img.hero-image {
+  width: 75%;
+  border: none;
+  background: none;
+}
+h1.fw-bold.fs-50.text-white {
+  line-height: 55px;
+  margin-bottom: 20px;
+}
+button.btn.btn-my-primary {
+  background: #5fbe02;
+  outline: none;
+  border: none;
+  width: 200px;
+  height: 60px;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.hr {
+  height: 4px;
+  width: 100px;
+  background: #2666ec;
+  margin: 10px 0px 18px 0px;
+}
+.gren-heading {
+  color: #5fbe02;
+  font-size: 16px;
+}
+.sec-heading {
+  font-size: 36px;
+  font-weight: 600;
+}
+.sec-para {
+  color: #24272e;
+  font-size: 20px;
+}
+.card {
+  width: 250px;
+  height: 430px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+img.badge-image {
+  width: 180px;
+  margin-top: -24px;
+}
