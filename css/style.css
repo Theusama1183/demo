@@ -109,7 +109,7 @@ h3.sec-heading-t {
   margin-top: 30px;
 }
 h3.cart-title {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 600;
 }
 p.card-des {
@@ -151,30 +151,27 @@ p.card-des {
 }
 
 .benfits-Card {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #fff;
-    background-clip: border-box;
-    border: 1px solid #eeeeee;
-    padding: 20px;
-    border-radius: 15px;
-    height: 310px;
-    margin-bottom: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid #eeeeee;
+  padding: 20px;
+  border-radius: 15px;
+  height: 240px;
+  margin-bottom: 20px;
 }
 .benfits-Card:hover {
   box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
 }
 img.icon-img {
   width: 100px;
-}
-img.icon-img {
-    height: 100px;
 }
 p.befits-text {
   font-size: 20px;
