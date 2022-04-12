@@ -4,10 +4,13 @@
     display: block;
   }
   .bg-image {
-    height: 50vh;
+    height: 100vh;
   }
   .col-lg-2 {
     width: 100% !important;
+  }
+  .col-3 {
+    width: 100%;
   }
   .card {
     width: 100%;
