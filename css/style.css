@@ -173,6 +173,9 @@ p.card-des {
 img.icon-img {
   width: 100px;
 }
+img.icon-img {
+    height: 100px;
+}
 p.befits-text {
   font-size: 20px;
   text-align: center;
