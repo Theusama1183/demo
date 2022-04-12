@@ -36,54 +36,13 @@
   a.navbar-brand {
     width: 50%;
   }
-  button.btn.btn-my-primary {
-    margin-top: -45%;
-  }
-  @media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  .row.hero {
-    display: block;
-  }
-  .bg-image {
-    height: 100vh;
-  }
-  .col-lg-2 {
-    width: 100% !important;
-  }
-  .col-3 {
-    width: 100%;
-  }
-  .card {
-    width: 100%;
-    margin-bottom: 50px;
-    height: 100%;
-  }
-  .service-erow::after {
-    display: none;
-  }
-  .col-6 {
-    width: 100% !important;
-  }
-  h1.fw-bold.fs-50.text-white {
-    font-size: 23px;
-    line-height: 30px;
-  }
-  .hero-container {
-    text-align: center;
-  }
-  .hero-image-container {
-    display: none;
-  }
-  a.navbar-brand {
-    width: 50%;
-  }
-  button.btn.btn-my-primary {
-    margin-top: -45%;
-  }
   .col-6.blue {
     border-radius: 15px 15px 0px 0px;
   }
   .col-6.green {
     border-radius: 0px 0px 15px 15px;
+  }
+  .bg-my-primary {
+    width: 100% !important;
   }
 }
