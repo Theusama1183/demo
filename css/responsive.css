@@ -43,15 +43,11 @@
   }
   .bg-my-primary {
     width: 100% !important;
-    padding: 14px;
   }
-  .footer-menu {
-    display: block;
-  }
-  input.form-control {
-    height: 45px !important;
-}
-    h1.form-heading {
+  h1.form-heading {
     font-size: 28px !important;
+  }
+  h1.fw-bold.fs-50.text-white {
+    font-size: 40px;
   }
 }
