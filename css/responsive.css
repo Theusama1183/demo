@@ -49,4 +49,7 @@
   .footer-menu {
     display: block;
   }
+  input.form-control {
+    height: 45px !important;
+}
 }
