@@ -44,5 +44,6 @@
   }
   .bg-my-primary {
     width: 100% !important;
+    padding: 14px;
   }
 }
