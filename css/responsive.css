@@ -55,4 +55,7 @@
   .mobile {
     margin-top: 50px;
   }
+  .footer-menu {
+    display: block !important;
+}
 }
