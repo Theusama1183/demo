@@ -48,4 +48,11 @@
     font-size: 40px;
     line-height: 45px !important;
   }
+  .button-container.text-center {
+    margin-top: -60px;
+    padding-bottom: 50px;
+  }
+  .mobile {
+    margin-top: 50px;
+  }
 }
