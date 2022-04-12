@@ -52,4 +52,7 @@
   input.form-control {
     height: 45px !important;
 }
+    h1.form-heading {
+    font-size: 28px !important;
+  }
 }
